@@ -16,7 +16,7 @@
 
 Summarize any kind of article with just one click using the powerful OpenAI model.
 
-This project is an AI-powered article summarizer built with React.js, TypeScript, Redux Toolkit, and Tailwind CSS. 
+This project is an AI-powered legal summarizer built with React.js, TypeScript, Redux Toolkit, and Tailwind CSS. 
 
 ## ⚙️ Tech Stack
 
